@@ -1,6 +1,12 @@
-.App {
-  text-align: center;
+/* .App {
+  margin-left: 20px;
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+} */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   font-family: 'Tangerine', serif;
   font-size: 48px;
 }
-
