@@ -8,5 +8,10 @@ export const MenuItems = [
     title: 'Gallery',
     url:'#',
     cName: 'nav-links'
+  },
+  {
+    title: 'Portfolio', 
+    url: '#', 
+    cName: 'nav-links'
   }
 ]
