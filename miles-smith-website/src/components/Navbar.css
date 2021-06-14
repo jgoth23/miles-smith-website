@@ -20,4 +20,5 @@
   list-style: none;
   text-align: center;
   width: 70vw;
+  justify-content: end;
 }
