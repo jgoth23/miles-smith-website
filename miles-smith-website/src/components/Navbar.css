@@ -40,3 +40,7 @@
   border-radius: 4px;
   transition: all 0.2s ease-out;
 }
+
+.fa-bars {
+  color:rgb(0, 0, 0);
+}
