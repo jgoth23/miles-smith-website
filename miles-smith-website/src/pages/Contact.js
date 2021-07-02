@@ -1,12 +1,13 @@
 import React from 'react';
 
-
 function Contact() {
   return (
-    <div className='contact'>
-      <h1>Contact</h1>
-      <p>for inquiries write to milezander@gmail.com</p>
+    <div>
+      <h1 className='contact'>For inquires write to </h1>
     </div>
+    // <div>
+    //  <a className="contact-text" href="mailto:mileszander@gmail.com"></a>
+    // </div>
   )
 }
 export default Contact;
