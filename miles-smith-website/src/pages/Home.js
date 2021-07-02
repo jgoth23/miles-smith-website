@@ -3,7 +3,7 @@ import React from 'react';
 
 function Home() {
   return (
-    <div className='Home'>
+    <div className='home'>
       
       <img src="Vegas Trip-475 copy.jpg" className="homeImage"></img>
     </div>
